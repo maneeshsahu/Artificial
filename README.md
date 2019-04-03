@@ -51,6 +51,8 @@ commands
   - Python’s inbuilt library for handling subprocesses
 - Datetime Parser
   - Parses Datetime, converts to epoch and back
+- os
+  - Stores stdout, stderr, return codes in a logs directory 
 
 What could have been improved in the submission:
 - More Python Unit Test Cases
