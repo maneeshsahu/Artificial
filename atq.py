@@ -1,5 +1,7 @@
 """
-RPC client lists the jobs scheduled.
+RPyC client lists the jobs scheduled.
+Usage:
+   python atq.py
 """
 
 import sys
